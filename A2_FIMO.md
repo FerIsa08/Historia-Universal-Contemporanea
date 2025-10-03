@@ -12,7 +12,7 @@ Febrero de 1917: Revolución de Febrero: Estallan protestas en Petrogrado; el de
 
 Abril de 1917: Regreso de Lenin y las Tesis de Abril: Lenin regresa del exilio; plantea sus Tesis (“todo el poder para los soviets”, etc.), rompe con el Gobierno provisional; los bolcheviques empiezan a organizarse para disputar el poder político.
 
-Octubre de 1917 (noviembre, según el calendario gregoriano): Revolución de Octubre: Los bolcheviques toman el poder por la insurrección en Petrogrado, derrocan al Gobierno provisional; Lenin asume la dirección del nuevo gobierno con los soviets como eje político.
+Octubre de 1917: Revolución de Octubre: Los bolcheviques toman el poder por la insurrección en Petrogrado, derrocan al Gobierno provisional; Lenin asume la dirección del nuevo gobierno con los soviets como eje político.
 
 1918-1921: Guerra Civil Rusa / Comunismo de Guerra: Enfrentamiento armado entre los bolcheviques y sus opositores. Se aplica el “comunismo de guerra”, nacionalización de industrias, requisición de cosechas, control riguroso del Estado sobre la economía para mantener al ejército y abastecer a la población urbana. Altos costos humanos, económicos y sociales.
 
@@ -20,3 +20,6 @@ Octubre de 1917 (noviembre, según el calendario gregoriano): Revolución de Oct
 
 1922: Formación de la URSS: Se consolida el nuevo Estado socialista. En diciembre de 1922 se crea formalmente la Unión de Repúblicas Socialistas Soviéticas (URSS).
 
+1924: Muerte de Lenin / lucha por el poder: Tras la muerte de Lenin, comienza la pugna interna en el partido bolchevique; Stalin emerge como figura dominante.
+
+Años finales de los 1920 y década de los 1930: Consolidación del estalinismo: Bajo Stalin, se abandonan muchas de las concesiones de la NEP; se impulsan planes forzados de industrialización, colectivización del campo, represión política, purgas; concentración del poder en un líder único y partido único.
